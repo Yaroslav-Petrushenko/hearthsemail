@@ -1,0 +1,117 @@
+.general {
+    border-collapse: collapse;
+    width: 600px;
+    background-color: #0c131b;
+
+}
+td {
+    text-align: center;
+}
+h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 55px;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+}
+h2 {
+    margin: 0;
+    text-align: center;
+    font-size: 36px;
+    color: #bcbcbd;
+    font-weight: bold;
+    font-family: "Arial";
+}
+p {
+    align-items: left;
+    font-size: 14px;
+    line-height: 22px;
+    color: #86918c;
+    font-family: "Arial";
+}
+span {
+    color: #e8a336;
+}
+.show_kart a {
+    color: #fa5d26;
+}
+.lis h1 {
+
+}
+.knopka {
+    text-align: center;
+}
+.titleA {
+    padding-bottom: 13px;
+    padding-top: 13px;
+    padding-left: 53px;
+    padding-right: 53px;
+    align-items: center;
+    background: #9f15a9 url(../https://github.com/Nataliia-Zemlyak/email/blob/master/img/knopka.jpg?raw=true) center/cover;
+}
+.knopka a {
+    text-decoration: none;
+    font-size: 24px;
+    line-height: 22px;
+    color: #fffff8;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+.pre-order h2 {
+    font-size: 36px;
+    color: #20b4bb;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.pre-order span {
+    color: #9f15a9;
+}
+.pre-order h3 {
+
+    color: #bcbcbd;
+    font-family: "Arial";
+}
+.prop {
+    padding: 16px;
+    font-size: 11px;
+    line-height: 22px;
+    color: #85908c;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.knopka_show p {
+    margin-bottom: 60px;
+    margin-top: 40px;
+
+}
+.connect {
+    background-color: #eed3a8;
+}
+.connect h2 {
+    margin: 40px;
+    font-size: 36px;
+    color: #263870;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.connect p {
+    margin-bottom: 30px;
+    font-size: 14px;
+line-height: 22px;
+color: #000000;
+font-family: "Arial";
+text-align: center;
+}
+.connect span,
+.connect a {
+    color: #c17029;
+}
+.social  {
+    margin: 0;
+    background-color: #eed3a8;
+}
