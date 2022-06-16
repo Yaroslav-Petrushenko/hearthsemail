@@ -37,8 +37,8 @@ span {
 .show_kart a {
     color: #fa5d26;
 }
-.lis h1 {
-
+img {
+    vertical-align: bottom;
 }
 .knopka,
 .knopkar {
@@ -51,7 +51,7 @@ span {
     padding-left: 53px;
     padding-right: 53px;
     align-items: center;
-    background: #9f15a9 url(../https://github.com/Nataliia-Zemlyak/email/blob/master/img/knopka.jpg?raw=true) center/cover;
+    
 }
 .knopka a {
     display: inline-block;
