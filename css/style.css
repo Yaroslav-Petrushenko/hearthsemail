@@ -51,6 +51,7 @@ span {
     background: #9f15a9 url(../https://github.com/Nataliia-Zemlyak/email/blob/master/img/knopka.jpg?raw=true) center/cover;
 }
 .knopka a {
+    display: inline-block;
     text-decoration: none;
     font-size: 24px;
     line-height: 22px;
