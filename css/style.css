@@ -24,7 +24,8 @@ h2 {
     font-family: "Arial";
 }
 p {
-    align-items: left;
+    
+    padding: 1px 54px;
     font-size: 14px;
     line-height: 22px;
     color: #86918c;
@@ -102,7 +103,7 @@ span {
 }
 .connect p {
     margin-bottom: 30px;
-    font-size: 14px;
+    font-size: 15px;
 line-height: 22px;
 color: #000000;
 font-family: "Arial";
@@ -113,6 +114,7 @@ text-align: center;
     color: #c17029;
 }
 .social  {
+    padding-bottom: 20px;
     margin: 0;
     background-color: #eed3a8;
 }
